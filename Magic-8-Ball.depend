@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511907485 source:e:\users\john\documents\c++ projects\magic-8-ball\main.cpp
+	"phrase.h"
+	<iostream>
+	<string>
+
+1511906304 e:\users\john\documents\c++ projects\magic-8-ball\phrase.h
+	<string>
+
+1511907003 source:e:\users\john\documents\c++ projects\magic-8-ball\phrase.cpp
+	"phrase.h"
+	<string>
+	<array>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
